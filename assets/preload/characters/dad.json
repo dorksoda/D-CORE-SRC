@@ -1,0 +1,198 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				590,
+				330
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				788,
+				231
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT-alt",
+			"indices": [],
+			"name": "leftb"
+		},
+		{
+			"offsets": [
+				234,
+				256
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT-alt",
+			"indices": [],
+			"name": "rightb"
+		},
+		{
+			"offsets": [
+				364,
+				126
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN-alt",
+			"indices": [],
+			"name": "downb"
+		},
+		{
+			"offsets": [
+				525,
+				444
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP-alt",
+			"indices": [],
+			"name": "upb"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				779,
+				225
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "left",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				524,
+				430
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				303,
+				266
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "right",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17
+			]
+		},
+		{
+			"loop": false,
+			"offsets": [
+				385,
+				152
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "down",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17
+			]
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/dad",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "dad",
+	"flip_x": false,
+	"healthbar_colors": [
+		79,
+		83,
+		120
+	],
+	"camera_position": [
+		-450,
+		-90
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}

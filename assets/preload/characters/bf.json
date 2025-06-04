@@ -1,0 +1,235 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				188,
+				-132
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10
+			],
+			"name": "down"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				185,
+				-2
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "up",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10
+			]
+		},
+		{
+			"loop": true,
+			"offsets": [
+				180,
+				-100
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "idle",
+			"indices": []
+		},
+		{
+			"offsets": [
+				194,
+				-106
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "hey",
+			"indices": [],
+			"name": "hey"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				182,
+				-87
+			],
+			"anim": "singDOWNmiss",
+			"fps": 24,
+			"name": "downmiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				189,
+				2
+			],
+			"anim": "singUPmiss",
+			"fps": 24,
+			"name": "upmiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				189,
+				16
+			],
+			"anim": "singUP-alt",
+			"fps": 24,
+			"name": "upb",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				133,
+				-115
+			],
+			"anim": "singDOWN-alt",
+			"fps": 24,
+			"name": "downb",
+			"indices": []
+		},
+		{
+			"offsets": [
+				180,
+				-80
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15
+			],
+			"name": "right"
+		},
+		{
+			"offsets": [
+				170,
+				-74
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15
+			],
+			"name": "left"
+		},
+		{
+			"loop": false,
+			"offsets": [
+				176,
+				-74
+			],
+			"anim": "singLEFTmiss",
+			"fps": 24,
+			"name": "rightmiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				168,
+				-45
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 24,
+			"name": "leftmiss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				170,
+				-102
+			],
+			"anim": "singRIGHT-alt",
+			"fps": 24,
+			"name": "leftb",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				179,
+				-77
+			],
+			"anim": "singLEFT-alt",
+			"fps": 24,
+			"name": "rightb",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/boyfriend",
+	"position": [
+		0,
+		150
+	],
+	"healthicon": "bf",
+	"flip_x": true,
+	"healthbar_colors": [
+		26,
+		20,
+		61
+	],
+	"camera_position": [
+		-40,
+		190
+	],
+	"sing_duration": 6.1,
+	"scale": 0.8
+}

@@ -1,0 +1,50 @@
+{
+	"storyName": "Dojo Duel",
+	"difficulties": "hard",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"bombeedop",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"filthy",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		],
+		[
+			"father-fight",
+			"dad",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"hiddenUntilUnlocked": false,
+	"weekName": "Dojo Duel"
+}
